@@ -1,4 +1,3 @@
-```markdown
 # 🚜 Виртуальный тренажёр управления опрыскивателем «Туман» (TumanXR)
 
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
