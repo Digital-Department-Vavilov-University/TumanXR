@@ -104,5 +104,3 @@ git clone [https://github.com/TheFox3490/TumanXR.git](https://github.com/TheFox3
 5. **Тестирование VR:** Перед запуском режима Play в редакторе убедитесь, что среда выполнения VR (SteamVR, Oculus App или Meta Quest Link) активна и шлем корректно инициализирован в системе.
 
 ```
-
-```
