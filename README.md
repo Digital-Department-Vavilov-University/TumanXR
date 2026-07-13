@@ -103,4 +103,3 @@ git clone [https://github.com/TheFox3490/TumanXR.git](https://github.com/TheFox3
 4. **Запуск сцены:** Перейдите в каталог `Assets/Scenes/` и откройте стартовую сцену (`MainScene.unity`).
 5. **Тестирование VR:** Перед запуском режима Play в редакторе убедитесь, что среда выполнения VR (SteamVR, Oculus App или Meta Quest Link) активна и шлем корректно инициализирован в системе.
 
-```
